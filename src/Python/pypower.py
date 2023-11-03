@@ -4,6 +4,7 @@ import pandas as pd
 #import seaborn as sns
 
 
+
 def check_nan(df):
     
     """ Función de Yona

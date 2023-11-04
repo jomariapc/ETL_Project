@@ -1,0 +1,122 @@
+order_id,created_datetime,brand,location,channel,status,type,total,payment_method,delivery_cost,discount,tip,driver_tip,subtotal,vat,software
+AULRBGNM,2023-11-03 14:46:46,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,26.9,CARD,0.0,0.0,0.0,0.0,26.9,0.0,otter
+B1YBHZJW,2023-11-03 14:40:15,Tepuy Burger,Tepuy Burger - Benidorm,glovo,DELIVERED,DELIVERY,51.5,CARD,0.0,0.0,0.0,0.0,51.5,0.0,otter
+ALMVLKTB,2023-11-03 14:23:06,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,26.9,CARD,0.0,0.0,0.0,0.0,26.9,0.0,otter
+BXVJAQHE,2023-11-02 22:32:27,Tepuy Burger,Tepuy Burger - Benidorm,glovo,DELIVERED,DELIVERY,40.9,CARD,0.0,0.0,0.0,0.0,40.9,0.0,otter
+ABUGGFKZ,2023-11-02 22:28:20,Tepuy Burger,Tepuy Burger - Calle Bazan,glovo,CANCELED,DELIVERY,20.4,CARD,0.0,0.0,0.0,0.0,20.4,0.0,otter
+AMJA5BSJ,2023-11-02 22:04:30,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,11.2,CARD,0.0,0.0,0.0,0.0,11.2,0.0,otter
+ASV9UL3S,2023-11-02 21:59:42,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,27.0,CARD,0.0,0.0,0.0,0.0,27.0,0.0,otter
+AJ3BTUAP,2023-11-02 21:54:07,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,14.9,CARD,0.0,0.0,0.0,0.0,14.9,0.0,otter
+F0936,2023-11-02 21:49:47,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,NEW,DELIVERY,34.5,CARD,0.0,0.0,0.0,0.0,34.5,0.0,otter
+BP1PJXPT,2023-11-02 21:14:05,Tepuy Burger,Tepuy Burger - Benidorm,glovo,DELIVERED,DELIVERY,30.7,CARD,0.0,0.0,0.0,0.0,30.7,0.0,otter
+777744476,2023-11-02 20:53:38,Tepuy Burger,Tepuy Burger - Benidorm,gloria_foods,DELIVERED,DELIVERY,16.4,CARD,0.0,0.0,0.0,0.0,16.4,1.49,otter
+80EB3,2023-11-02 20:40:42,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,NEW,DELIVERY,12.2,CARD,0.0,0.0,0.0,0.0,12.2,0.0,otter
+ANNR4QHL,2023-11-02 20:30:43,Tepuy Burger,Tepuy Burger - Calle Bazan,glovo,DELIVERED,DELIVERY,16.0,CARD,0.0,0.0,0.0,0.0,16.0,0.0,otter
+B91ZG23U,2023-11-02 20:27:39,Tepuy Burger,Tepuy Burger - Benidorm,glovo,DELIVERED,DELIVERY,39.0,CARD,0.0,0.0,0.0,0.0,39.0,0.0,otter
+BNLLAXZ4,2023-11-02 20:26:05,Tepuy Burger,Tepuy Burger - Benidorm,glovo,DELIVERED,DELIVERY,25.2,CARD,0.0,0.0,0.0,0.0,25.2,0.0,otter
+AY29R9UE,2023-11-02 20:22:53,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,30.2,CARD,0.0,0.0,0.0,0.0,30.2,0.0,otter
+A3FE7,2023-11-02 20:21:58,Tepuy Burger,Tepuy Burger - Benidorm,ubereats,DELIVERED,DELIVERY,28.8,CARD,0.0,0.0,0.0,0.0,28.8,0.0,otter
+BVQVYDKN,2023-11-02 20:11:40,Tepuy Burger,Tepuy Burger - Benidorm,glovo,DELIVERED,DELIVERY,14.9,CARD,0.0,0.0,0.0,0.0,14.9,0.0,otter
+777709666,2023-11-02 19:57:14,Tepuy Burger,Tepuy Burger - Calle Bazan,gloria_foods,NEW,DELIVERY,34.3,CARD,0.0,0.0,0.0,0.0,34.3,0.0,otter
+BLPAZXJQ,2023-11-02 15:42:51,Tepuy Burger,Tepuy Burger - Benidorm,glovo,DELIVERED,DELIVERY,44.8,CARD,0.0,0.0,0.0,0.0,44.8,0.0,otter
+95819,2023-11-02 15:15:41,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,NEW,DELIVERY,51.4,CARD,0.0,0.0,0.0,0.0,51.4,0.0,otter
+AXNXVXSK,2023-11-02 15:12:30,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,14.6,CARD,0.0,0.0,0.0,0.0,14.6,0.0,otter
+AZZPA81A,2023-11-02 15:09:09,Tepuy Burger,Tepuy Burger - Calle Bazan,glovo,DELIVERED,DELIVERY,25.4,CARD,0.0,0.0,0.0,0.0,25.4,0.0,otter
+A1GDRSM8,2023-11-02 14:35:43,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,41.5,CARD,0.0,0.0,0.0,0.0,41.5,0.0,otter
+BT4L98U1,2023-11-02 14:26:52,Tepuy Burger,Tepuy Burger - Benidorm,glovo,DELIVERED,DELIVERY,16.4,CARD,0.0,0.0,0.0,0.0,16.4,0.0,otter
+AYW2RC2L,2023-11-02 13:50:55,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,17.6,CARD,0.0,0.0,0.0,0.0,17.6,0.0,otter
+B2LFGJZY,2023-11-02 13:48:28,Tepuy Burger,Tepuy Burger - Benidorm,glovo,DELIVERED,DELIVERY,12.4,CARD,0.0,0.0,0.0,0.0,12.4,0.0,otter
+7EB12,2023-11-01 22:42:50,Tepuy Burger,Tepuy Burger - Benidorm,ubereats,DELIVERED,DELIVERY,33.6,CARD,0.0,0.0,0.0,0.0,33.6,0.0,otter
+AGRWGP1C,2023-11-01 22:41:55,Tepuy Burger,Tepuy Burger - Calle Bazan,glovo,DELIVERED,DELIVERY,16.7,CARD,0.0,0.0,0.0,0.0,16.7,0.0,otter
+D3156,2023-11-01 22:18:48,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,DELIVERED,DELIVERY,24.2,CARD,0.0,0.0,0.0,0.0,24.2,0.0,otter
+B415F,2023-11-01 22:15:08,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,DELIVERED,DELIVERY,14.5,CARD,0.0,0.0,0.0,0.0,14.5,0.0,otter
+FBB7D,2023-11-01 22:02:24,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,DELIVERED,DELIVERY,47.2,CARD,0.0,0.0,0.0,0.0,47.2,0.0,otter
+B3EJMHCX,2023-11-01 21:59:40,Tepuy Burger,Tepuy Burger - Benidorm,glovo,DELIVERED,DELIVERY,30.4,CARD,0.0,0.0,0.0,0.0,30.4,0.0,otter
+32BA7,2023-11-01 21:49:05,Tepuy Burger,Tepuy Burger - Benidorm,ubereats,DELIVERED,DELIVERY,39.0,CARD,0.0,0.0,0.0,0.0,39.0,0.0,otter
+B1U1L6HZ,2023-11-01 21:45:16,Tepuy Burger,Tepuy Burger - Benidorm,glovo,DELIVERED,DELIVERY,28.2,CARD,0.0,0.0,0.0,0.0,28.2,0.0,otter
+AS5N1TNK,2023-11-01 21:38:07,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,12.5,CARD,0.0,0.0,0.0,0.0,12.5,0.0,otter
+4A2AE,2023-11-01 21:34:51,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,DELIVERED,DELIVERY,15.1,CARD,0.0,0.0,0.0,0.0,15.1,0.0,otter
+2BC3D,2023-11-01 21:21:09,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,DELIVERED,DELIVERY,46.6,CARD,0.0,0.0,0.0,0.0,46.6,0.0,otter
+ADCPS7TX,2023-11-01 21:16:19,Tepuy Burger,Tepuy Burger - Calle Bazan,glovo,DELIVERED,DELIVERY,35.5,CARD,0.0,0.0,0.0,0.0,35.5,0.0,otter
+BFC32,2023-11-01 21:10:48,Tepuy Burger,Tepuy Burger - Benidorm,ubereats,DELIVERED,DELIVERY,18.3,CARD,0.0,0.0,0.0,0.0,18.3,0.0,otter
+A91BRWPP,2023-11-01 21:10:44,Tepuy Burger,Tepuy Burger - Calle Bazan,glovo,DELIVERED,DELIVERY,25.9,CARD,0.0,0.0,0.0,0.0,25.9,0.0,otter
+ALQEL7Q2,2023-11-01 20:50:54,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,28.9,CARD,0.0,0.0,0.0,0.0,28.9,0.0,otter
+ACJ17KTG,2023-11-01 20:50:43,Tepuy Burger,Tepuy Burger - Calle Bazan,glovo,DELIVERED,DELIVERY,26.9,CARD,0.0,0.0,0.0,0.0,26.9,0.0,otter
+D9F0E,2023-11-01 20:39:21,Tepuy Burger,Tepuy Burger - Benidorm,ubereats,DELIVERED,DELIVERY,14.5,CARD,0.0,0.0,0.0,0.0,14.5,0.0,otter
+5AE7A,2023-11-01 20:18:21,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,NEW,DELIVERY,30.2,CARD,0.0,0.0,0.0,0.0,30.2,0.0,otter
+ANS5MFTL,2023-11-01 20:16:29,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,14.3,CARD,0.0,0.0,0.0,0.0,14.3,0.0,otter
+BCF1HBZF,2023-11-01 20:16:29,Tepuy Burger,Tepuy Burger - Benidorm,glovo,DELIVERED,DELIVERY,12.3,CARD,0.0,-2.0,0.0,0.0,12.3,0.0,otter
+AUVDFQDA,2023-11-01 20:14:55,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,29.2,CARD,0.0,0.0,0.0,0.0,29.2,0.0,otter
+A1UFVGVL,2023-11-01 20:14:55,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,17.2,CARD,0.0,0.0,0.0,0.0,17.2,0.0,otter
+BJH2CVMT,2023-11-01 20:14:04,Tepuy Burger,Tepuy Burger - Benidorm,glovo,DELIVERED,DELIVERY,27.0,CARD,0.0,0.0,0.0,0.0,27.0,0.0,otter
+C50F4,2023-11-01 20:11:48,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,DELIVERED,DELIVERY,30.8,CARD,0.0,0.0,0.0,0.0,30.8,0.0,otter
+A1A1YJDW,2023-11-01 20:11:43,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,34.5,CARD,0.0,0.0,0.0,0.0,34.5,0.0,otter
+ATPKSZYJ,2023-11-01 15:00:15,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,13.5,CARD,0.0,0.0,0.0,0.0,13.5,0.0,otter
+E0D4E,2023-11-01 14:25:59,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,DELIVERED,DELIVERY,107.7,CARD,0.0,0.0,0.0,0.0,107.7,0.0,otter
+A3YFPL7T,2023-11-01 14:23:42,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,14.6,CARD,0.0,0.0,0.0,0.0,14.6,0.0,otter
+A6LFZCL1,2023-11-01 14:22:43,Tepuy Burger,Tepuy Burger - Calle Bazan,glovo,DELIVERED,DELIVERY,39.1,CARD,0.0,0.0,0.0,0.0,39.1,0.0,otter
+BED3YQJ3,2023-11-01 14:15:32,Tepuy Burger,Tepuy Burger - Benidorm,glovo,DELIVERED,DELIVERY,32.0,CARD,0.0,-2.5,0.0,0.0,32.0,0.0,otter
+9F89E,2023-11-01 14:04:30,Tepuy Burger,Tepuy Burger - Benidorm,ubereats,DELIVERED,DELIVERY,15.4,CARD,0.0,0.0,0.0,0.0,15.4,0.0,otter
+BGAHFNFG,2023-11-01 14:00:04,Tepuy Burger,Tepuy Burger - Benidorm,glovo,DELIVERED,DELIVERY,16.9,CARD,0.0,0.0,0.0,0.0,16.9,0.0,otter
+AZG6NSDP,2023-11-01 13:48:54,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,38.6,CARD,0.0,0.0,0.0,0.0,38.6,0.0,otter
+138509659,2023-10-31 21:31:15,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,ACCEPTED,DELIVERY,85.39,CARD,1.99,0.0,0.0,0.0,83.4,7.57,deliverect
+138502564,2023-10-31 21:02:26,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,41.89,CARD,1.99,0.0,0.0,0.0,39.9,3.62,deliverect
+138409768,2023-10-29 20:20:15,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,31.09,CARD,1.99,0.0,0.0,0.0,29.1,2.65,deliverect
+138402233,2023-10-29 19:53:10,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,19.69,CARD,1.99,0.0,0.0,0.0,17.7,1.61,deliverect
+138390234,2023-10-29 19:28:17,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,15.99,CARD,2.99,0.0,0.0,0.0,13.0,1.19,deliverect
+138319436,2023-10-28 19:23:22,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,ACCEPTED,DELIVERY,17.49,CARD,1.99,0.0,0.0,0.0,15.5,1.41,deliverect
+138316697,2023-10-28 19:00:52,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,28.79,CARD,1.99,0.0,0.0,0.0,26.8,2.44,deliverect
+138311393,2023-10-28 18:59:45,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,42.89,CARD,1.99,0.0,0.0,0.0,40.9,3.72,deliverect
+138292558,2023-10-28 13:18:43,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,48.49,CARD,1.99,0.0,0.0,0.0,46.5,4.23,deliverect
+138283638,2023-10-28 11:59:39,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,ACCEPTED,DELIVERY,30.79,CARD,1.99,0.0,0.0,0.0,28.8,2.62,deliverect
+138253067,2023-10-27 19:32:50,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,30.79,CARD,1.99,0.0,0.0,0.0,28.8,2.62,deliverect
+138225171,2023-10-27 17:46:58,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,21.39,CARD,1.99,0.0,0.0,0.0,19.4,1.76,deliverect
+138193344,2023-10-26 19:14:19,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,31.99,CARD,1.99,0.0,0.0,0.0,30.0,2.73,deliverect
+138193373,2023-10-26 19:13:39,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,33.69,CARD,1.99,0.0,0.0,0.0,31.7,2.89,deliverect
+138092974,2023-10-23 20:35:14,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,28.49,CARD,1.99,0.0,0.0,0.0,26.5,2.41,deliverect
+138041729,2023-10-22 18:59:39,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,32.39,CARD,1.99,0.0,0.0,0.0,30.4,2.76,deliverect
+138036409,2023-10-22 18:59:13,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,17.99,CARD,1.99,0.0,0.0,0.0,16.0,1.46,deliverect
+138033638,2023-10-22 18:43:38,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,17.79,CARD,1.99,0.0,0.0,0.0,15.8,1.44,deliverect
+138010804,2023-10-22 13:34:50,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,29.89,CARD,1.99,0.0,0.0,0.0,27.9,2.53,deliverect
+138007598,2023-10-22 13:04:34,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,26.99,CARD,1.99,0.0,0.0,0.0,25.0,2.27,deliverect
+137994655,2023-10-22 11:56:04,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,45.29,CARD,1.99,0.0,0.0,0.0,43.3,3.94,deliverect
+137964896,2023-10-21 19:40:33,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,16.19,CARD,1.99,0.0,0.0,0.0,14.2,1.29,deliverect
+137965761,2023-10-21 19:39:28,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,39.69,CARD,1.99,0.0,0.0,0.0,37.7,3.42,deliverect
+137959618,2023-10-21 19:28:42,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,31.49,CARD,1.99,0.0,0.0,0.0,29.5,2.68,deliverect
+137948279,2023-10-21 18:41:53,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,32.79,CARD,1.99,0.0,0.0,0.0,30.8,2.8,deliverect
+137948824,2023-10-21 18:40:23,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,54.59,CARD,1.99,0.0,0.0,0.0,52.6,4.78,deliverect
+137942216,2023-10-21 18:00:43,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,29.49,CARD,1.99,0.0,0.0,0.0,27.5,2.5,deliverect
+137936032,2023-10-21 14:35:48,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,14.19,CARD,2.99,0.0,0.0,0.0,11.2,1.02,deliverect
+137925134,2023-10-21 12:07:11,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,32.29,CARD,1.99,0.0,0.0,0.0,30.3,2.76,deliverect
+137910498,2023-10-20 20:41:36,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,20.09,CARD,1.99,0.0,0.0,0.0,18.1,1.64,deliverect
+137895680,2023-10-20 19:38:18,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,30.09,CARD,1.99,0.0,0.0,0.0,28.1,2.56,deliverect
+137883261,2023-10-20 18:50:32,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,35.19,CARD,1.99,0.0,0.0,0.0,33.2,3.02,deliverect
+137846543,2023-10-19 20:25:13,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,33.19,CARD,1.99,0.0,0.0,0.0,31.2,2.84,deliverect
+137803389,2023-10-18 20:22:36,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,40.09,CARD,1.99,0.0,0.0,0.0,38.1,3.47,deliverect
+137801553,2023-10-18 19:58:19,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,15.49,CARD,2.99,0.0,0.0,0.0,12.5,1.14,deliverect
+137621464,2023-10-14 19:51:21,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,49.89,CARD,1.99,0.0,0.0,0.0,47.9,4.36,deliverect
+137602868,2023-10-14 18:50:43,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,17.99,CARD,1.99,0.0,0.0,0.0,16.0,1.45,deliverect
+137587409,2023-10-14 12:51:22,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,18.09,CARD,1.99,0.0,0.0,0.0,16.1,1.47,deliverect
+137571629,2023-10-13 21:07:57,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,22.59,CARD,1.99,0.0,0.0,0.0,20.6,1.87,deliverect
+137551307,2023-10-13 18:59:11,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,ACCEPTED,DELIVERY,29.79,CARD,1.99,0.0,0.0,0.0,27.8,2.53,deliverect
+137508230,2023-10-12 19:49:42,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,26.09,CARD,1.99,0.0,0.0,0.0,24.1,2.19,deliverect
+137457751,2023-10-12 11:45:35,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,31.89,CARD,1.99,0.0,0.0,0.0,29.9,2.72,deliverect
+137430634,2023-10-11 19:35:38,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,35.39,CARD,1.99,0.0,0.0,0.0,33.4,3.04,deliverect
+137432611,2023-10-11 19:33:00,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,52.59,CARD,1.99,0.0,0.0,0.0,50.6,4.62,deliverect
+137351414,2023-10-09 19:19:40,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,17.39,CARD,1.99,0.0,0.0,0.0,15.4,1.4,deliverect
+137344918,2023-10-09 18:26:20,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,31.09,CARD,1.99,0.0,0.0,0.0,29.1,2.65,deliverect
+137336556,2023-10-09 13:15:00,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,17.39,CARD,1.99,0.0,0.0,0.0,15.4,1.4,deliverect
+137281410,2023-10-08 17:22:43,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,23.29,CARD,1.99,0.0,0.0,0.0,21.3,1.93,deliverect
+137233002,2023-10-07 19:48:52,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,45.09,CARD,1.99,0.0,0.0,0.0,43.1,3.93,deliverect
+137210756,2023-10-07 18:26:37,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,28.39,CARD,1.99,0.0,0.0,0.0,26.4,2.41,deliverect
+137195974,2023-10-07 12:53:57,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,22.19,CARD,1.99,0.0,0.0,0.0,20.2,1.83,deliverect
+137170977,2023-10-06 20:15:47,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,27.79,CARD,1.99,0.0,0.0,0.0,25.8,2.34,deliverect
+137110319,2023-10-05 20:17:36,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,35.29,CARD,1.99,0.0,0.0,0.0,33.3,3.02,deliverect
+137103955,2023-10-05 19:22:01,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,30.99,CARD,1.99,0.0,0.0,0.0,29.0,2.63,deliverect
+137072257,2023-10-04 20:50:49,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,89.79,CARD,1.99,0.0,0.0,0.0,87.8,8.02,deliverect
+137046943,2023-10-04 13:46:55,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,29.29,CARD,1.99,0.0,0.0,0.0,27.3,2.48,deliverect
+137026252,2023-10-03 19:13:58,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,32.89,CARD,1.99,0.0,0.0,0.0,30.9,2.81,deliverect
+136925115,2023-10-01 15:54:56,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,42.69,CARD,1.99,0.0,0.0,0.0,40.7,3.7,deliverect
+136920156,2023-10-01 13:54:36,Tepuy Burger,Tepuy Burger - Calle Bazan,just_eat,DELIVERED,DELIVERY,20.89,CARD,1.99,0.0,0.0,0.0,18.9,1.73,deliverect
+136909515,2023-10-01 12:29:06,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,19.59,CARD,1.99,0.0,0.0,0.0,17.6,1.6,deliverect
+136902245,2023-10-01 11:55:37,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,just_eat,DELIVERED,DELIVERY,40.19,CARD,1.99,0.0,0.0,0.0,38.2,3.47,deliverect

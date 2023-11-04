@@ -1,0 +1,61 @@
+created_datetime,brand,location,channel,id_order,status,subtotal,vat,discount
+2023-11-03 14:46:46,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,AULRBGNM,Entregado,26.9,0.0,0.0
+2023-11-03 14:40:15,Tepuy Burger,Tepuy Burger - Benidorm,glovo,B1YBHZJW,Entregado,51.5,0.0,0.0
+2023-11-03 14:23:06,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,ALMVLKTB,Entregado,26.9,0.0,0.0
+2023-11-02 22:32:27,Tepuy Burger,Tepuy Burger - Benidorm,glovo,BXVJAQHE,Entregado,40.9,0.0,0.0
+2023-11-02 22:28:20,Tepuy Burger,Tepuy Burger - Calle Bazan,glovo,ABUGGFKZ,Cancelado,20.4,0.0,0.0
+2023-11-02 22:04:30,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,AMJA5BSJ,Entregado,11.2,0.0,0.0
+2023-11-02 21:59:42,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,ASV9UL3S,Entregado,27.0,0.0,0.0
+2023-11-02 21:54:07,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,AJ3BTUAP,Entregado,14.9,0.0,0.0
+2023-11-02 21:49:47,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,F0936,Nuevo,34.5,0.0,0.0
+2023-11-02 21:14:05,Tepuy Burger,Tepuy Burger - Benidorm,glovo,BP1PJXPT,Entregado,30.7,0.0,0.0
+2023-11-02 20:53:38,Tepuy Burger,Tepuy Burger - Benidorm,gloria-foods,777744476,Entregado,16.4,1.49,0.0
+2023-11-02 20:40:42,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,80EB3,Nuevo,12.2,0.0,0.0
+2023-11-02 20:30:43,Tepuy Burger,Tepuy Burger - Calle Bazan,glovo,ANNR4QHL,Entregado,16.0,0.0,0.0
+2023-11-02 20:27:39,Tepuy Burger,Tepuy Burger - Benidorm,glovo,B91ZG23U,Entregado,39.0,0.0,0.0
+2023-11-02 20:26:05,Tepuy Burger,Tepuy Burger - Benidorm,glovo,BNLLAXZ4,Entregado,25.2,0.0,0.0
+2023-11-02 20:22:53,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,AY29R9UE,Entregado,30.2,0.0,0.0
+2023-11-02 20:21:58,Tepuy Burger,Tepuy Burger - Benidorm,ubereats,A3FE7,Entregado,28.8,0.0,0.0
+2023-11-02 20:11:40,Tepuy Burger,Tepuy Burger - Benidorm,glovo,BVQVYDKN,Entregado,14.9,0.0,0.0
+2023-11-02 19:57:14,Tepuy Burger,Tepuy Burger - Calle Bazan,gloria-foods,777709666,Nuevo,34.3,0.0,0.0
+2023-11-02 15:42:51,Tepuy Burger,Tepuy Burger - Benidorm,glovo,BLPAZXJQ,Entregado,44.8,0.0,0.0
+2023-11-02 15:15:41,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,95819,Nuevo,51.4,0.0,0.0
+2023-11-02 15:12:30,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,AXNXVXSK,Entregado,14.6,0.0,0.0
+2023-11-02 15:09:09,Tepuy Burger,Tepuy Burger - Calle Bazan,glovo,AZZPA81A,Entregado,25.4,0.0,0.0
+2023-11-02 14:35:43,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,A1GDRSM8,Entregado,41.5,0.0,0.0
+2023-11-02 14:26:52,Tepuy Burger,Tepuy Burger - Benidorm,glovo,BT4L98U1,Entregado,16.4,0.0,0.0
+2023-11-02 13:50:55,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,AYW2RC2L,Entregado,17.6,0.0,0.0
+2023-11-02 13:48:28,Tepuy Burger,Tepuy Burger - Benidorm,glovo,B2LFGJZY,Entregado,12.4,0.0,0.0
+2023-11-01 22:42:50,Tepuy Burger,Tepuy Burger - Benidorm,ubereats,7EB12,Entregado,33.6,0.0,0.0
+2023-11-01 22:41:55,Tepuy Burger,Tepuy Burger - Calle Bazan,glovo,AGRWGP1C,Entregado,16.7,0.0,0.0
+2023-11-01 22:18:48,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,D3156,Entregado,24.2,0.0,0.0
+2023-11-01 22:15:08,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,B415F,Entregado,14.5,0.0,0.0
+2023-11-01 22:02:24,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,FBB7D,Entregado,47.2,0.0,0.0
+2023-11-01 21:59:40,Tepuy Burger,Tepuy Burger - Benidorm,glovo,B3EJMHCX,Entregado,30.4,0.0,0.0
+2023-11-01 21:49:05,Tepuy Burger,Tepuy Burger - Benidorm,ubereats,32BA7,Entregado,39.0,0.0,0.0
+2023-11-01 21:45:16,Tepuy Burger,Tepuy Burger - Benidorm,glovo,B1U1L6HZ,Entregado,28.2,0.0,0.0
+2023-11-01 21:38:07,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,AS5N1TNK,Entregado,12.5,0.0,0.0
+2023-11-01 21:34:51,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,4A2AE,Entregado,15.1,0.0,0.0
+2023-11-01 21:21:09,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,2BC3D,Entregado,46.6,0.0,0.0
+2023-11-01 21:16:19,Tepuy Burger,Tepuy Burger - Calle Bazan,glovo,ADCPS7TX,Entregado,35.5,0.0,0.0
+2023-11-01 21:10:48,Tepuy Burger,Tepuy Burger - Benidorm,ubereats,BFC32,Entregado,18.3,0.0,0.0
+2023-11-01 21:10:44,Tepuy Burger,Tepuy Burger - Calle Bazan,glovo,A91BRWPP,Entregado,25.9,0.0,0.0
+2023-11-01 20:50:54,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,ALQEL7Q2,Entregado,28.9,0.0,0.0
+2023-11-01 20:50:43,Tepuy Burger,Tepuy Burger - Calle Bazan,glovo,ACJ17KTG,Entregado,26.9,0.0,0.0
+2023-11-01 20:39:21,Tepuy Burger,Tepuy Burger - Benidorm,ubereats,D9F0E,Entregado,14.5,0.0,0.0
+2023-11-01 20:18:21,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,5AE7A,Nuevo,30.2,0.0,0.0
+2023-11-01 20:16:29,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,ANS5MFTL,Entregado,14.3,0.0,0.0
+2023-11-01 20:16:29,Tepuy Burger,Tepuy Burger - Benidorm,glovo,BCF1HBZF,Entregado,12.3,0.0,-2.0
+2023-11-01 20:14:55,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,AUVDFQDA,Entregado,29.2,0.0,0.0
+2023-11-01 20:14:55,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,A1UFVGVL,Entregado,17.2,0.0,0.0
+2023-11-01 20:14:04,Tepuy Burger,Tepuy Burger - Benidorm,glovo,BJH2CVMT,Entregado,27.0,0.0,0.0
+2023-11-01 20:11:48,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,C50F4,Entregado,30.8,0.0,0.0
+2023-11-01 20:11:43,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,A1A1YJDW,Entregado,34.5,0.0,0.0
+2023-11-01 15:00:15,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,ATPKSZYJ,Entregado,13.5,0.0,0.0
+2023-11-01 14:25:59,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,ubereats,E0D4E,Entregado,107.7,0.0,0.0
+2023-11-01 14:23:42,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,A3YFPL7T,Entregado,14.6,0.0,0.0
+2023-11-01 14:22:43,Tepuy Burger,Tepuy Burger - Calle Bazan,glovo,A6LFZCL1,Entregado,39.1,0.0,0.0
+2023-11-01 14:15:32,Tepuy Burger,Tepuy Burger - Benidorm,glovo,BED3YQJ3,Entregado,32.0,0.0,-2.5
+2023-11-01 14:04:30,Tepuy Burger,Tepuy Burger - Benidorm,ubereats,9F89E,Entregado,15.4,0.0,0.0
+2023-11-01 14:00:04,Tepuy Burger,Tepuy Burger - Benidorm,glovo,BGAHFNFG,Entregado,16.9,0.0,0.0
+2023-11-01 13:48:54,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,AZG6NSDP,Entregado,38.6,0.0,0.0

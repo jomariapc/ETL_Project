@@ -1,9 +1,6 @@
-<div align="center">
-  <a>
-    <img src="img/tepuy_logo.PNG" >
-  </a>
-</div>
-   <br />
+<p align="center">
+  <img src="img/tepuy_logo.png" alt="Tepuy Logo">
+</p>
 
 # ETL - Tepuy Burger
 

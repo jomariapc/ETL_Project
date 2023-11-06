@@ -1,4 +1,9 @@
-![Logo Tepuy](/img/tepuy_logo.png)
+<div align="center">
+  <a>
+    <img src="img/tepuy_logo.PNG" >
+  </a>
+</div>
+   <br />
 
 # ETL - Tepuy Burger
 

@@ -1,3 +1,5 @@
+![Logo Tepuy](/img/tepuy_logo.png)
+
 # ETL - Tepuy Burger
 
 ## **About Tepuy Burger**
@@ -40,9 +42,15 @@ As a strong growth is expected in the short term, the enterprise is trying to jo
 #### ***ERD***
 ![ERD Image](/img/ERD.png)
 
+
+#### ***Extra information***
+
 ##### ***Python files***
 Data Cleaning and Processing DataFrames functions
 - Related document: [PyPower.py](https://github.com/jomariapc/ETL_Project/blob/main/src/Python/PyPower.py)
 
 Database loading functions
 - Related document: [PySql.py](https://github.com/jomariapc/ETL_Project/blob/main/src/Python/PySql.py)
+
+
+#### *** ***

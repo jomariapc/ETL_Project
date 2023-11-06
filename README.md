@@ -25,17 +25,20 @@ As a strong growth is expected in the short term, the enterprise is trying to jo
 
 ### *TRANSFORM*
 #### ***Data Cleaning***
-- Related document: [II.Data_Cleaning.Ipynb](/src/Jupyter_Notebook/I.Data_Cleaning.ipynb)
+- Related document: [II.Data_Cleaning.Ipynb](https://github.com/jomariapc/ETL_Project/blob/main/src/Jupyter_Notebook/II.Data_Cleaning.ipynb)
 
 #### ***Data Unification***
-- Related document: [III.Data_Unification.ipynb](/src/Jupyter_Notebook/I.Data_Unification.ipynb)
+- Related document: [III.Data_Unification.ipynb](https://github.com/jomariapc/ETL_Project/blob/main/src/Jupyter_Notebook/III.Data_Unification.ipynb)
 
 #### ***Database Analysis***
-- Related document: [IV.Database.ipynb](/src/Jupyter_Notebook/I.Data_Unification.ipynb)
+- Related document: [IV.Database.ipynb](https://github.com/jomariapc/ETL_Project/blob/main/src/Jupyter_Notebook/IV.Database.ipynb)
 
 ### *LOADING*
 #### ***Database Filling***
-- Related document: [V.Database_filling.ipynb](/src/Jupyter_Notebook/I.Database_filling.ipynb)
+- Related document: [V.Database_filling.ipynb](https://github.com/jomariapc/ETL_Project/blob/main/src/Jupyter_Notebook/V.Database_filling.ipynb)
 
 #### ***ERD***
-![ERD Image](/img/ERD.png)s
+![ERD Image](/img/ERD.png)
+
+##### ***Python files***
+Functions of Data Cleaning and Processing DataFrames are in PyPower.py

@@ -41,4 +41,8 @@ As a strong growth is expected in the short term, the enterprise is trying to jo
 ![ERD Image](/img/ERD.png)
 
 ##### ***Python files***
-Functions of Data Cleaning and Processing DataFrames are in PyPower.py
+Data Cleaning and Processing DataFrames functions
+- Related document: [PyPower.py](https://github.com/jomariapc/ETL_Project/blob/main/src/Python/PyPower.py)
+
+Database loading functions
+- Related document: [PySql.py](https://github.com/jomariapc/ETL_Project/blob/main/src/Python/PySql.py)

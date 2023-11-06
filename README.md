@@ -20,7 +20,7 @@ As a strong growth is expected in the short term, the enterprise is trying to jo
 ### *EXTRACTION*
 #### ***Data Extraction***
 - **Step 1** – Information extraction (Glovo, Uber Eats, and Tepuy web delivery information webscraping from the Otter client interface)
-  - Related document: [I.Data_Extraction.ipynb](/src/Jupyter_Notebook/I.Data_Extraction.ipynb)
+  - Related document: [I.Data_Extraction.ipynb](https://github.com/jomariapc/ETL_Project/blob/main/src/Jupyter_Notebook/I.Data_Extraction.ipynb)
 - **Step 2** – Information extraction (Just Eat information extraction from a CSV file)
 
 ### *TRANSFORM*

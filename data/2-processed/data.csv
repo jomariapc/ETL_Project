@@ -1,4 +1,4 @@
-order_id,created_datetime,brand,location,channel,status,type,total,payment_method,delivery_cost,discount,tip,driver_tip,subtotal,vat,software
+order_id_software,created_datetime,brand,location,channel,status,type,total,payment_method,delivery_cost,discount,tip,driver_tip,subtotal,vat,software
 AULRBGNM,2023-11-03 14:46:46,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,26.9,CARD,0.0,0.0,0.0,0.0,26.9,0.0,otter
 B1YBHZJW,2023-11-03 14:40:15,Tepuy Burger,Tepuy Burger - Benidorm,glovo,DELIVERED,DELIVERY,51.5,CARD,0.0,0.0,0.0,0.0,51.5,0.0,otter
 ALMVLKTB,2023-11-03 14:23:06,Tepuy Burger,Tepuy Burger - Rodolfo Salazar,glovo,DELIVERED,DELIVERY,26.9,CARD,0.0,0.0,0.0,0.0,26.9,0.0,otter

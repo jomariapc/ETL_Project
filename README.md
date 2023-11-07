@@ -55,4 +55,12 @@ Database loading functions
 - Related document: [PySql.py](https://github.com/jomariapc/ETL_Project/blob/main/src/Python/PySql.py)
 
 
-#### *** ***
+#### *** Conclusions and future prospects ***
+This is the beginning of an ambitious project that will bring together sources from various information software. 
+For example:
+Deliverect - Data collection through a Reporting Endpoint.
+GloriaFood - Data collection through its API
+
+Final project: mega ETL
+
+
